@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;500;600;700&display=swap');
+
+.font-redrose{
+    font-family: 'Red Rose', cursive;
+}
+
 .active{
     color: orange;
     font-weight: 600;
